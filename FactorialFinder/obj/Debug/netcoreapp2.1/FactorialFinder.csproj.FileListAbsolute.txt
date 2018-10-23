@@ -1,0 +1,11 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\bin\Debug\netcoreapp2.1\FactorialFinder.deps.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\bin\Debug\netcoreapp2.1\FactorialFinder.runtimeconfig.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\bin\Debug\netcoreapp2.1\FactorialFinder.runtimeconfig.dev.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\bin\Debug\netcoreapp2.1\FactorialFinder.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\bin\Debug\netcoreapp2.1\FactorialFinder.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.AssemblyInfoInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.AssemblyInfo.cs
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\FactorialFinder\FactorialFinder\obj\Debug\netcoreapp2.1\FactorialFinder.pdb
